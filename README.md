@@ -1,6 +1,6 @@
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
+1
 # Lab | Discrete Probability Distributions
 
 
